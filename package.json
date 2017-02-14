@@ -1,0 +1,25 @@
+{
+  "name": "node-js-sample",
+  "version": "1.0.0",
+  "description": "Basic node.js sample app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkRachit/node-js-sample.git"
+  },
+  "keywords": [
+    "node.js",
+    "sample",
+    "app",
+    "node-js-sample"
+  ],
+  "author": "Rachit Goel<rachit2goel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkRachit/node-js-sample/issues"
+  },
+  "homepage": "https://github.com/linkRachit/node-js-sample#readme"
+}
