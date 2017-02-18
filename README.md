@@ -1,6 +1,6 @@
 # Node.js Sample
 
-##Sample
+## Sample
 
 This Sample of a web server written in Node.js to setup/start project in raw Node.js.
 
@@ -23,7 +23,7 @@ This Sample of a web server written in Node.js to setup/start project in raw Nod
 
 ```
 
-##Usage
+## Usage
 
 ```console
 
@@ -35,5 +35,18 @@ In thus case:
 ```console
 
   > node index
+
+```
+
+## User entry required
+
+```console
+
+  const hostname = '127.0.0.1';
+  const port = 3000;
+  -----------------------------
+  res.end('Sample Test\n');
+  -----------------------------
+  console.log(`Server running at http://${hostname}:${port}/`);
 
 ```
