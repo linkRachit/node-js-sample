@@ -30,13 +30,14 @@ This Sample of a web server written in Node.js to setup/start project in raw Nod
   > node [options] [v8 options] [index.js | -e "index"] [arguments]
 
 ```
-In thus case:
+In this case:
 
 ```console
 
   > node index
 
 ```
+not compulsary, to use .js extension while running node.js application. 
 
 ## User entry required
 
