@@ -35,6 +35,8 @@ In this case:
 ```console
 
   > node index
+      or
+  > npm start    
 
 ```
 not compulsary, to use .js extension while running node.js application. 
@@ -48,8 +50,8 @@ not compulsary, to use .js extension while running node.js application.
   -----------------------------
   res.end('Sample Test\n');
   -----------------------------
-  console.log(`Server running at port:${port};
+  console.log(`Server running at port:${port}`);
 
 ```
 
-[Click here to see the live project](http://node-js-sample-linkrachit.herokuapp.com/)
+[## Click here to see the live project](http://node-js-sample-linkrachit.herokuapp.com/)
